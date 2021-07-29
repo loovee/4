@@ -1,6 +1,6 @@
 <html>
   <head>
-    <img src="https://royals.baby/wp-content/uploads/2021/06/vaindistanthaddock-small.gif" width="800" height="400">
+    <img src="https://royals.baby/wp-content/uploads/2021/07/2293028_07b.jpg" width="900" height="600">
 
   </head>
 </html>
